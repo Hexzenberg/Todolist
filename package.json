@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "\"To make a ToDo List website\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/Hexzenberg/Todolist\""
+  },
+  "keywords": [
+    "\"TodoList",
+    "Hexzenberg\""
+  ],
+  "author": "\"Hexzenberg\"",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "date-fns": "^3.0.6"
+  }
+}
